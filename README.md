@@ -1,6 +1,7 @@
  <div align="center">
 
-# Jailbreaks
+# lol
+
 
 **A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models.**
 
